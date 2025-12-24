@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Satyam7275&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 <h1 align="center">Hi 👋 I'm Satyam Mishra</h1>
 <br>Frontend Developer from India 🇮🇳 | Turning ideas into functional web applications with clean UI systems ⚡<br>coding<br><br>🔭 I’m currently working on Food Ordering web applications using HTML,JavaScript, React.js, TailWind CSS <br>🌱 I’m currently learning advanced backend development, APIs, and system fundamentals (OS, DBMS, CN)<br>💼 Former Frontend Developer Intern at CodSoft (Aug 2024 – Sep 2024)<br>📫 Reach me at satyam701991@gmail.com<br><br>⚡ Fun fact: I enjoy debugging code as much as winning competitions 😄🔥
 
